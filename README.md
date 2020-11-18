@@ -12,6 +12,12 @@ $ git init
 
 Then, revise package.json and tweak the remaining files.
 
+Finally, after the first commit, don't forget to rename the master branch to main.
+
+```shell
+$ git branch -m master main
+```
+
 ---
 
 # PACKAGE_NAME
