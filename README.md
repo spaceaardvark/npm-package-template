@@ -5,7 +5,7 @@ Starter template for NPM packages.
 First, get a git-less copy of the repo.
 
 ```shell
-$ npx degit @spaceaardvark/npm-package-template [folder]
+$ npx degit @spaceaardvark/npm-package-template#main [folder]
 $ cd [folder]
 $ git init
 ```
