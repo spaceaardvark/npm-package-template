@@ -2,17 +2,17 @@
 
 Starter template for NPM packages.
 
-First, get a git-less copy of the repo.
+1. First, get a git-less copy of the repo.
 
 ```shell
-$ npx degit @spaceaardvark/npm-package-template#main [folder]
+$ npx degit git@github.com:spaceaardvark/npm-package-template.git#main [folder]
 $ cd [folder]
 $ git init
 ```
 
-Then, revise package.json and tweak the remaining files.
+2. Then, revise package.json and tweak the remaining files &mdash; including this one.
 
-Finally, after the first commit, don't forget to rename the master branch to main.
+3. After the first commit, remember to rename the master branch to main.
 
 ```shell
 $ git branch -m master main
