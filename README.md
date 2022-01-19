@@ -10,13 +10,7 @@ $ cd [folder]
 $ git init
 ```
 
-2. Then, revise package.json and tweak the remaining files &mdash; including this one.
-
-3. After the first commit, remember to rename the master branch to main.
-
-```shell
-$ git branch -m master main
-```
+2. Review and update `package.json`, `README.md`, `CHANGELOG.md`, and `LICENSE`.
 
 ---
 
@@ -43,6 +37,7 @@ $ yarn add @spaceaardvark/PACKAGE_NAME
 ## Usage
 
 ```javascript
+
 ```
 
 ## API
@@ -51,5 +46,5 @@ $ yarn add @spaceaardvark/PACKAGE_NAME
 
 Be sure to create an issue before you submit a change request.
 
-The library does not require a build step and is easy to test. See the `scripts` 
+The library does not require a build step and is easy to test. See the `scripts`
 section in `package.json` for more information.
